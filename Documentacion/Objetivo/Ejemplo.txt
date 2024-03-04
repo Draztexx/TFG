@@ -1,0 +1,45 @@
+3. OBJETIVO
+
+En esta sección, se busca concretar y exponer claramente el problema a resolver,
+ describiendo el ámbito del proyecto, las fases involucradas y otros aspectos relevantes.
+
+El objetivo principal de este proyecto es diseñar y desarrollar un juego de horror en 3D 
+que ofrezca una experiencia envolvente y sobresaliente para el jugador. Se plantea abordar
+ este objetivo a través de los siguientes elementos:
+
+3.1. Atmósfera de Tensión y Sobresaltos:
+
+    Diseñar una atmósfera de tensión que sumerja al jugador en un entorno aterrador y cautivador.
+    Implementar momentos estratégicos de sobresalto mediante cambios en la música,
+     iluminación y eventos inesperados, aprovechando al máximo la naturaleza inmersiva del juego en 3D.
+
+3.2. Elementos de Puzles y Obstáculos:
+
+    Incorporar puzles dentro del juego como obstáculos que el jugador debe superar para avanzar en la historia.
+    Asegurar que la resolución de estos acertijos sea esencial para progresar, 
+    fomentando la participación activa del jugador y recompensando su habilidad con el avance en la trama.
+
+3.3. Estilo Visual Inspirado en los Noventa:
+
+    Implementar un estilo visual inspirado en los juegos de terror de finales de los noventa,
+    utilizando cambios de cámaras con diferentes ángulos a lo largo del mapa para generar un efecto cinematográfico.
+    Adoptar la estética "low poly", donde los modelos 3D están compuestos por un número limitado de polígonos, 
+    brindando un aspecto simplificado y estilizado.
+
+3.4. Equilibrio entre Frenesí y Estrategia:
+
+    Incorporar momentos de frenesí de manera selectiva y estratégica, evitando la saturación constante 
+    y buscando un equilibrio que mantenga el interés del jugador a lo largo de la aventura.
+    Desarrollar una trama que genere anticipación y suspense, preparando terreno para los 
+    momentos de sobresalto de manera orgánica.
+
+3.5. Evitar Frenetismo Constante y Complejidad Extrema en Puzles:
+
+    Garantizar que el juego no caiga en el frenetismo constante, permitiendo al jugador respirar y absorber la narrativa.
+    Evitar una complejidad extrema en los puzles, buscando desafíos con cierta complejidad 
+    pero no frustrantes, manteniendo así un equilibrio entre la intensidad del horror, la trama y los desafíos propuestos.
+
+El ámbito de este proyecto se centra en crear un producto único y memorable en el competitivo sector 
+de los videojuegos de terror. A pesar de las limitaciones tecnológicas que puedan surgir durante el desarrollo, 
+se aspira a destacar por la interacción efectiva con el jugador, suscitando emociones intensas y proporcionando 
+una experiencia de juego inolvidable.
